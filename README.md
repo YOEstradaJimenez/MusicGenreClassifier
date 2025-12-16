@@ -24,6 +24,7 @@ The classifier currently supports 8 genres:
 
 ## Project Structure
 MusicGenreClassifier/
+
 │
 
 ├── Files/                # Folder containing .mp3 files to classify
