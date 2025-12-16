@@ -25,8 +25,12 @@ The classifier currently supports 8 genres:
 ## Project Structure
 MusicGenreClassifier/
 │
+
 ├── Files/                # Folder containing .mp3 files to classify
+
 ├── Dataloader.py         # Custom dataset and spectrogram utilities
+
 ├── AudioNet.py           # Neural network architecture
+
 └── wmusic.pth            # Trained PyTorch model weights
 
